@@ -52,4 +52,13 @@ This repository contains the module one assignment solutions.
 
 
 > **Working Process**
-> - Insert two numbers in the given input box to check which one is the largest or if both are same.
+> - Insert two numbers in the given input boxes to check which one is the largest or if both are same.
+
+### Task 7: Simple Calculator
+- This script takes two inputs and and math operation option to generate the result.
+- It uses HTML form for the input values.
+
+
+> **Working Process**
+> - Insert two numbers in the given input boxes.
+> - Select the math operation you want to execute and submit to get the result.
