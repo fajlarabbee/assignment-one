@@ -26,3 +26,7 @@ This repository contains the module one assignment solutions.
 > - Average greater than or equal 50 is 'C'
 > - Average greater than or equal 33 is 'D'
 > - Otherwise 'F'
+
+### Task 4: Even or Odd Checker
+- This script checks and returns if the given number is 'Even' Or 'Odd'
+- It uses HTML form for the input value.
