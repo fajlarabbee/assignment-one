@@ -11,6 +11,7 @@ This repository contains the module one assignment solutions.
 
 ### Task 3: Grade Calculator
 - This script generates the grade point and average for the given subject marks (3 subjects).
+- It uses HTML form for the input values.
 
 
 > **Working Process**
