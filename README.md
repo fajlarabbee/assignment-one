@@ -30,3 +30,18 @@ This repository contains the module one assignment solutions.
 ### Task 4: Even or Odd Checker
 - This script checks and returns if the given number is 'Even' Or 'Odd'
 - It uses HTML form for the input value.
+
+### Task 5: Weather Report
+- This script takes two inputs and based on that returns the 'Freezing', 'Cool', 'Warm' message.
+- It uses HTML form for the input values.
+
+
+> **Working Process**
+> - Set the value of the current weather temperature in degree (Farenheit or Celcius)
+> - Select whether the given temperature is in Celcius or Farenheit to get the result.
+
+> **Weather Report Generation Rule**
+> *It converts the value to Celcius if given in Farenheit*
+> - Temperature less than or equal 10 is 'Freezing'
+> - Temperature less than or equal 22 is 'cool'
+> - 'Warm' otherwise.
