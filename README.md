@@ -9,6 +9,10 @@ This repository contains the module one assignment solutions.
 - It converts the given temperature and converts the value to selected format (Celsius to Fahrenheit or vice versa).
 - It uses HTML's 'Radio' input type for the selection and a input box (number) for the getting the values and based on the selection will generate the output.
 
+> **Working Process**
+> - Insert the temperature in the input box.
+> - Choose which temperature standard you want the value to be converted to and submit the form to get the result.
+
 ### Task 3: Grade Calculator
 - This script generates the grade point and average for the given subject marks (3 subjects).
 - It uses HTML form for the input values.
