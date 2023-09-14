@@ -6,4 +6,4 @@ This repository contains the module one assignment solutions.
 
 ### Task 2: Temperature Converter
 - It converts the given temperature and converts the value to selected format (Celsius to Fahrenheit or vice versa).
-- It uses html's 'Radio' input type for the selection and a input box (number) for the getting the values and based on the selection will generate the output.
+- It uses HTML's 'Radio' input type for the selection and a input box (number) for the getting the values and based on the selection will generate the output.
