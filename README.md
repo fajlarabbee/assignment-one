@@ -61,6 +61,7 @@ This repository contains the module one assignment solutions.
 ### Task 7: Simple Calculator
 - This script takes two inputs and and math operation option to generate the result.
 - It uses HTML form for the input values.
+- It will throw an error message ("Not possible") if you try to divide the number by 0.
 
 
 > **Working Process**
