@@ -45,3 +45,11 @@ This repository contains the module one assignment solutions.
 > - Temperature less than or equal 10 is 'Freezing'
 > - Temperature less than or equal 22 is 'cool'
 > - 'Warm' otherwise.
+
+### Task 6: Comparison Tool
+- This script takes two inputs and based on that returns the largest number or same number message.
+- It uses HTML form for the input values.
+
+
+> **Working Process**
+> - Insert two numbers in the given input box to check which one is the largest or if both are same.
